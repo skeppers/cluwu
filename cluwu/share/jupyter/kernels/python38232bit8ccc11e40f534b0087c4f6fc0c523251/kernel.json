@@ -1,0 +1,39 @@
+{
+  "argv": [
+    "E:\\Python\\Python38-32\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3.8.2 32-bit",
+  "language": "python",
+  "env": {},
+  "metadata": {
+    "interpreter": {
+      "architecture": 2,
+      "path": "E:\\Python\\Python38-32\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.2-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.2-final"
+      },
+      "sysPrefix": "E:\\Python\\Python38-32",
+      "fileHash": "f447e44d389b44a738edba013204770b7aaa4468807af22d10912ab65f6912b67b564295f3d4339e74603e7ff97cd358d7bc72c744ecd6be252d6977628ca575",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown",
+      "displayName": "Python 3.8.2 32-bit"
+    }
+  }
+}
